@@ -1,0 +1,31 @@
+body
+{
+background: linear-gradient(to right, rgb(255, 0, 153), rgb(73, 50, 64));
+}
+
+#day, #date
+{
+	display: inline-block;
+	text-align: center;
+	font-weight: bolder;
+	color: #000;
+/*	background: linear-gradient(to right, rgb(255, 0, 153), rgb(73, 50, 64));*/
+
+}
+
+
+#date
+{
+    font-size: 8vw;
+}
+
+#day
+{
+    font-size: 2.5vw;
+}
+
+.card
+{
+/*	width: 50vw !important;*/
+/* 	border:0px !important;*/
+}
